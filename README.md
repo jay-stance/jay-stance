@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Stance</h1>
-<h3 align="center"> With a hundred of ways, you can count on me in implementing the most efficient solution to your project. Deadlines are no worries, neither is scalability. Your project is a journey, let's build the future together. Feel free to checkout my <a href="https://jaystance.com"> Portfolio Website </a> </h3>
+<h3 align="center"> With a hundred of ways, you can count on me in implementing the most efficient solution to your project. Deadlines are no worries, neither is scalability. Your project is a journey, let's build the future together. Feel free to checkout my <a href="https://jaystance.com" target="blank"> Portfolio Website </a> </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
